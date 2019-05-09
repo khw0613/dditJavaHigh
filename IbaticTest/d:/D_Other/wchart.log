@@ -1,0 +1,256 @@
+[2018-12-04 16:05:30,709] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:05:30,709] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:05:59,218] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:05:59,218] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:06:38,259] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:06:38,259] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:08:04,386] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:08:04,386] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:11:05,287] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:11:05,287] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:16:05,077] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:16:05,077] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:19:59,461] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:19:59,461] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:22:42,918] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:22:42,918] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:27:18,453] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:27:18,453] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:27:18,457] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Preparing Statement:        select * from mymember    
+[2018-12-04 16:27:18,457] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Preparing Statement:        select * from mymember    
+[2018-12-04 16:27:18,514] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Executing Statement:        select * from mymember    
+[2018-12-04 16:27:18,514] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Executing Statement:        select * from mymember    
+[2018-12-04 16:27:18,514] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Parameters: []
+[2018-12-04 16:27:18,514] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Parameters: []
+[2018-12-04 16:27:18,514] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Types: []
+[2018-12-04 16:27:18,514] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Types: []
+[2018-12-04 16:27:18,539] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} ResultSet
+[2018-12-04 16:27:18,539] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} ResultSet
+[2018-12-04 16:27:18,547] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} Header: [MEM_ID, MEM_NAME, MEM_TEL, MEM_ADDR]
+[2018-12-04 16:27:18,547] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} Header: [MEM_ID, MEM_NAME, MEM_TEL, MEM_ADDR]
+[2018-12-04 16:27:18,547] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} Result: [110, 김도현, 010, 대전 대흥동]
+[2018-12-04 16:27:18,547] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} Result: [110, 김도현, 010, 대전 대흥동]
+[2018-12-04 16:27:39,250] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100003} Connection
+[2018-12-04 16:27:39,250] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100003} Connection
+[2018-12-04 16:27:39,250] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100003} Preparing Statement:               delete from mymember where mem_id=?    
+[2018-12-04 16:27:39,250] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100003} Preparing Statement:               delete from mymember where mem_id=?    
+[2018-12-04 16:27:39,255] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Executing Statement:               delete from mymember where mem_id=?    
+[2018-12-04 16:27:39,255] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Executing Statement:               delete from mymember where mem_id=?    
+[2018-12-04 16:27:39,256] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Parameters: [110]
+[2018-12-04 16:27:39,256] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Parameters: [110]
+[2018-12-04 16:27:39,256] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Types: [java.lang.String]
+[2018-12-04 16:27:39,256] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Types: [java.lang.String]
+[2018-12-04 16:27:48,684] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100005} Connection
+[2018-12-04 16:27:48,684] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100005} Connection
+[2018-12-04 16:30:07,090] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:30:07,090] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:31:03,044] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:31:03,044] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:31:03,048] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Preparing Statement:        select count(*) from mymember where mem_id=?    
+[2018-12-04 16:31:03,048] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Preparing Statement:        select count(*) from mymember where mem_id=?    
+[2018-12-04 16:31:03,093] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Executing Statement:        select count(*) from mymember where mem_id=?    
+[2018-12-04 16:31:03,093] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Executing Statement:        select count(*) from mymember where mem_id=?    
+[2018-12-04 16:31:03,094] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Parameters: [d001]
+[2018-12-04 16:31:03,094] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Parameters: [d001]
+[2018-12-04 16:31:03,094] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Types: [java.lang.String]
+[2018-12-04 16:31:03,094] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Types: [java.lang.String]
+[2018-12-04 16:31:03,108] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} ResultSet
+[2018-12-04 16:31:03,108] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} ResultSet
+[2018-12-04 16:31:03,116] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} Header: [COUNT(*)]
+[2018-12-04 16:31:03,116] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} Header: [COUNT(*)]
+[2018-12-04 16:31:03,116] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} Result: [0]
+[2018-12-04 16:31:03,116] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} Result: [0]
+[2018-12-04 16:31:27,948] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100003} Connection
+[2018-12-04 16:31:27,948] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100003} Connection
+[2018-12-04 16:31:27,948] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100003} Preparing Statement:        insert into mymember (mem_id, mem_name, mem_tel, mem_addr)       values ( ?, ?, ?, ? )    
+[2018-12-04 16:31:27,948] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100003} Preparing Statement:        insert into mymember (mem_id, mem_name, mem_tel, mem_addr)       values ( ?, ?, ?, ? )    
+[2018-12-04 16:31:27,949] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Executing Statement:        insert into mymember (mem_id, mem_name, mem_tel, mem_addr)       values ( ?, ?, ?, ? )    
+[2018-12-04 16:31:27,949] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Executing Statement:        insert into mymember (mem_id, mem_name, mem_tel, mem_addr)       values ( ?, ?, ?, ? )    
+[2018-12-04 16:31:27,949] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Parameters: [d001, 김도현, 010-0000-0000, 대전]
+[2018-12-04 16:31:27,949] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Parameters: [d001, 김도현, 010-0000-0000, 대전]
+[2018-12-04 16:31:27,949] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Types: [java.lang.String, java.lang.String, java.lang.String, java.lang.String]
+[2018-12-04 16:31:27,949] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Types: [java.lang.String, java.lang.String, java.lang.String, java.lang.String]
+[2018-12-04 16:31:30,726] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100005} Connection
+[2018-12-04 16:31:30,726] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100005} Connection
+[2018-12-04 16:31:30,726] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100005} Preparing Statement:        select * from mymember    
+[2018-12-04 16:31:30,726] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100005} Preparing Statement:        select * from mymember    
+[2018-12-04 16:31:30,726] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100006} Executing Statement:        select * from mymember    
+[2018-12-04 16:31:30,726] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100006} Executing Statement:        select * from mymember    
+[2018-12-04 16:31:30,727] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100006} Parameters: []
+[2018-12-04 16:31:30,727] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100006} Parameters: []
+[2018-12-04 16:31:30,728] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100006} Types: []
+[2018-12-04 16:31:30,728] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100006} Types: []
+[2018-12-04 16:31:30,733] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100007} ResultSet
+[2018-12-04 16:31:30,733] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100007} ResultSet
+[2018-12-04 16:31:30,733] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100007} Header: [MEM_ID, MEM_NAME, MEM_TEL, MEM_ADDR]
+[2018-12-04 16:31:30,733] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100007} Header: [MEM_ID, MEM_NAME, MEM_TEL, MEM_ADDR]
+[2018-12-04 16:31:30,733] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100007} Result: [d001, 김도현, 010-0000-0000, 대전]
+[2018-12-04 16:31:30,733] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100007} Result: [d001, 김도현, 010-0000-0000, 대전]
+[2018-12-04 16:32:04,235] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100008} Connection
+[2018-12-04 16:32:04,235] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100008} Connection
+[2018-12-04 16:32:04,235] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100008} Preparing Statement:        select count(*) from mymember where mem_id=?    
+[2018-12-04 16:32:04,235] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100008} Preparing Statement:        select count(*) from mymember where mem_id=?    
+[2018-12-04 16:32:04,236] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100009} Executing Statement:        select count(*) from mymember where mem_id=?    
+[2018-12-04 16:32:04,236] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100009} Executing Statement:        select count(*) from mymember where mem_id=?    
+[2018-12-04 16:32:04,236] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100009} Parameters: [d001]
+[2018-12-04 16:32:04,236] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100009} Parameters: [d001]
+[2018-12-04 16:32:04,236] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100009} Types: [java.lang.String]
+[2018-12-04 16:32:04,236] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100009} Types: [java.lang.String]
+[2018-12-04 16:32:04,240] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100010} ResultSet
+[2018-12-04 16:32:04,240] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100010} ResultSet
+[2018-12-04 16:32:04,240] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100010} Header: [COUNT(*)]
+[2018-12-04 16:32:04,240] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100010} Header: [COUNT(*)]
+[2018-12-04 16:32:04,240] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100010} Result: [1]
+[2018-12-04 16:32:04,240] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100010} Result: [1]
+[2018-12-04 16:32:32,412] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100011} Connection
+[2018-12-04 16:32:32,412] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100011} Connection
+[2018-12-04 16:32:32,413] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100011} Preparing Statement:        update mymember set mem_name=?,       mem_tel=?, mem_addr=?       where mem_id=?    
+[2018-12-04 16:32:32,413] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100011} Preparing Statement:        update mymember set mem_name=?,       mem_tel=?, mem_addr=?       where mem_id=?    
+[2018-12-04 16:32:32,413] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100012} Executing Statement:        update mymember set mem_name=?,       mem_tel=?, mem_addr=?       where mem_id=?    
+[2018-12-04 16:32:32,413] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100012} Executing Statement:        update mymember set mem_name=?,       mem_tel=?, mem_addr=?       where mem_id=?    
+[2018-12-04 16:32:32,413] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100012} Parameters: [김현지, 010-1111-1111, 대전 은행동, d001]
+[2018-12-04 16:32:32,413] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100012} Parameters: [김현지, 010-1111-1111, 대전 은행동, d001]
+[2018-12-04 16:32:32,414] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100012} Types: [java.lang.String, java.lang.String, java.lang.String, java.lang.String]
+[2018-12-04 16:32:32,414] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100012} Types: [java.lang.String, java.lang.String, java.lang.String, java.lang.String]
+[2018-12-04 16:32:35,914] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100013} Connection
+[2018-12-04 16:32:35,914] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100013} Connection
+[2018-12-04 16:32:35,915] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100013} Preparing Statement:        select * from mymember    
+[2018-12-04 16:32:35,915] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100013} Preparing Statement:        select * from mymember    
+[2018-12-04 16:32:35,915] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100014} Executing Statement:        select * from mymember    
+[2018-12-04 16:32:35,915] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100014} Executing Statement:        select * from mymember    
+[2018-12-04 16:32:35,915] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100014} Parameters: []
+[2018-12-04 16:32:35,915] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100014} Parameters: []
+[2018-12-04 16:32:35,915] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100014} Types: []
+[2018-12-04 16:32:35,915] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100014} Types: []
+[2018-12-04 16:32:35,918] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100015} ResultSet
+[2018-12-04 16:32:35,918] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100015} ResultSet
+[2018-12-04 16:32:35,918] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100015} Header: [MEM_ID, MEM_NAME, MEM_TEL, MEM_ADDR]
+[2018-12-04 16:32:35,918] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100015} Header: [MEM_ID, MEM_NAME, MEM_TEL, MEM_ADDR]
+[2018-12-04 16:32:35,918] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100015} Result: [d001, 김현지, 010-1111-1111, 대전 은행동]
+[2018-12-04 16:32:35,918] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100015} Result: [d001, 김현지, 010-1111-1111, 대전 은행동]
+[2018-12-04 16:32:58,620] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100016} Connection
+[2018-12-04 16:32:58,620] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100016} Connection
+[2018-12-04 16:32:58,621] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100016} Preparing Statement:               delete from mymember where mem_id=?    
+[2018-12-04 16:32:58,621] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100016} Preparing Statement:               delete from mymember where mem_id=?    
+[2018-12-04 16:32:58,621] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100017} Executing Statement:               delete from mymember where mem_id=?    
+[2018-12-04 16:32:58,621] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100017} Executing Statement:               delete from mymember where mem_id=?    
+[2018-12-04 16:32:58,621] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100017} Parameters: [d001]
+[2018-12-04 16:32:58,621] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100017} Parameters: [d001]
+[2018-12-04 16:32:58,622] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100017} Types: [java.lang.String]
+[2018-12-04 16:32:58,622] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100017} Types: [java.lang.String]
+[2018-12-04 16:33:04,540] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100018} Connection
+[2018-12-04 16:33:04,540] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100018} Connection
+[2018-12-04 16:33:04,541] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100018} Preparing Statement:        select * from mymember    
+[2018-12-04 16:33:04,541] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100018} Preparing Statement:        select * from mymember    
+[2018-12-04 16:33:04,542] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100019} Executing Statement:        select * from mymember    
+[2018-12-04 16:33:04,542] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100019} Executing Statement:        select * from mymember    
+[2018-12-04 16:33:04,542] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100019} Parameters: []
+[2018-12-04 16:33:04,542] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100019} Parameters: []
+[2018-12-04 16:33:04,543] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100019} Types: []
+[2018-12-04 16:33:04,543] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100019} Types: []
+[2018-12-04 16:33:04,545] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100020} ResultSet
+[2018-12-04 16:33:04,545] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100020} ResultSet
+[2018-12-04 16:35:05,073] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:35:05,073] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:36:03,658] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:36:03,658] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:36:03,661] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Preparing Statement:        select count(*) from mymember where mem_id=?    
+[2018-12-04 16:36:03,661] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Preparing Statement:        select count(*) from mymember where mem_id=?    
+[2018-12-04 16:36:03,701] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Executing Statement:        select count(*) from mymember where mem_id=?    
+[2018-12-04 16:36:03,701] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Executing Statement:        select count(*) from mymember where mem_id=?    
+[2018-12-04 16:36:03,701] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Parameters: [s001]
+[2018-12-04 16:36:03,701] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Parameters: [s001]
+[2018-12-04 16:36:03,701] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Types: [java.lang.String]
+[2018-12-04 16:36:03,701] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Types: [java.lang.String]
+[2018-12-04 16:36:03,817] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} ResultSet
+[2018-12-04 16:36:03,817] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} ResultSet
+[2018-12-04 16:36:03,827] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} Header: [COUNT(*)]
+[2018-12-04 16:36:03,827] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} Header: [COUNT(*)]
+[2018-12-04 16:36:03,827] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} Result: [0]
+[2018-12-04 16:36:03,827] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} Result: [0]
+[2018-12-04 16:36:25,102] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100003} Connection
+[2018-12-04 16:36:25,102] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100003} Connection
+[2018-12-04 16:36:25,103] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100003} Preparing Statement:        insert into mymember (mem_id, mem_name, mem_tel, mem_addr)       values ( ?, ?, ?, ? )    
+[2018-12-04 16:36:25,103] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100003} Preparing Statement:        insert into mymember (mem_id, mem_name, mem_tel, mem_addr)       values ( ?, ?, ?, ? )    
+[2018-12-04 16:36:25,104] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Executing Statement:        insert into mymember (mem_id, mem_name, mem_tel, mem_addr)       values ( ?, ?, ?, ? )    
+[2018-12-04 16:36:25,104] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Executing Statement:        insert into mymember (mem_id, mem_name, mem_tel, mem_addr)       values ( ?, ?, ?, ? )    
+[2018-12-04 16:36:25,104] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Parameters: [s001, 김도현, 010-0000-0000, 두꺼비]
+[2018-12-04 16:36:25,104] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Parameters: [s001, 김도현, 010-0000-0000, 두꺼비]
+[2018-12-04 16:36:25,104] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Types: [java.lang.String, java.lang.String, java.lang.String, java.lang.String]
+[2018-12-04 16:36:25,104] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Types: [java.lang.String, java.lang.String, java.lang.String, java.lang.String]
+[2018-12-04 16:36:44,959] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100005} Connection
+[2018-12-04 16:36:44,959] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100005} Connection
+[2018-12-04 16:36:44,960] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100005} Preparing Statement:        select * from mymember    
+[2018-12-04 16:36:44,960] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100005} Preparing Statement:        select * from mymember    
+[2018-12-04 16:36:44,960] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100006} Executing Statement:        select * from mymember    
+[2018-12-04 16:36:44,960] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100006} Executing Statement:        select * from mymember    
+[2018-12-04 16:36:44,962] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100006} Parameters: []
+[2018-12-04 16:36:44,962] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100006} Parameters: []
+[2018-12-04 16:36:44,962] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100006} Types: []
+[2018-12-04 16:36:44,962] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100006} Types: []
+[2018-12-04 16:36:44,966] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100007} ResultSet
+[2018-12-04 16:36:44,966] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100007} ResultSet
+[2018-12-04 16:36:44,967] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100007} Header: [MEM_ID, MEM_NAME, MEM_TEL, MEM_ADDR]
+[2018-12-04 16:36:44,967] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100007} Header: [MEM_ID, MEM_NAME, MEM_TEL, MEM_ADDR]
+[2018-12-04 16:36:44,967] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100007} Result: [s001, 김도현, 010-0000-0000, 두꺼비]
+[2018-12-04 16:36:44,967] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100007} Result: [s001, 김도현, 010-0000-0000, 두꺼비]
+[2018-12-04 16:39:22,885] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:39:22,885] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:39:22,888] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Preparing Statement:        select * from mymember    
+[2018-12-04 16:39:22,888] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Preparing Statement:        select * from mymember    
+[2018-12-04 16:39:22,929] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Executing Statement:        select * from mymember    
+[2018-12-04 16:39:22,929] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Executing Statement:        select * from mymember    
+[2018-12-04 16:39:22,929] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Parameters: []
+[2018-12-04 16:39:22,929] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Parameters: []
+[2018-12-04 16:39:22,929] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Types: []
+[2018-12-04 16:39:22,929] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Types: []
+[2018-12-04 16:39:22,938] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} ResultSet
+[2018-12-04 16:39:22,938] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} ResultSet
+[2018-12-04 16:39:22,948] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} Header: [MEM_ID, MEM_NAME, MEM_TEL, MEM_ADDR]
+[2018-12-04 16:39:22,948] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} Header: [MEM_ID, MEM_NAME, MEM_TEL, MEM_ADDR]
+[2018-12-04 16:39:22,948] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} Result: [s001, 김도현, 010-0000-0000, 두꺼비]
+[2018-12-04 16:39:22,948] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} Result: [s001, 김도현, 010-0000-0000, 두꺼비]
+[2018-12-04 16:39:36,491] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100003} Connection
+[2018-12-04 16:39:36,491] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100003} Connection
+[2018-12-04 16:39:36,493] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100003} Preparing Statement:        select * from mymember       where                       mem_id=?                                                     
+[2018-12-04 16:39:36,493] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100003} Preparing Statement:        select * from mymember       where                       mem_id=?                                                     
+[2018-12-04 16:39:36,496] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Executing Statement:        select * from mymember       where                       mem_id=?                                                     
+[2018-12-04 16:39:36,496] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Executing Statement:        select * from mymember       where                       mem_id=?                                                     
+[2018-12-04 16:39:36,496] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Parameters: [s001]
+[2018-12-04 16:39:36,496] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Parameters: [s001]
+[2018-12-04 16:39:36,496] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Types: [java.lang.String]
+[2018-12-04 16:39:36,496] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Types: [java.lang.String]
+[2018-12-04 16:39:36,500] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100005} ResultSet
+[2018-12-04 16:39:36,500] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100005} ResultSet
+[2018-12-04 16:39:36,501] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100005} Header: [MEM_ID, MEM_NAME, MEM_TEL, MEM_ADDR]
+[2018-12-04 16:39:36,501] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100005} Header: [MEM_ID, MEM_NAME, MEM_TEL, MEM_ADDR]
+[2018-12-04 16:39:36,501] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100005} Result: [s001, 김도현, 010-0000-0000, 두꺼비]
+[2018-12-04 16:39:36,501] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100005} Result: [s001, 김도현, 010-0000-0000, 두꺼비]
+[2018-12-04 16:48:13,347] INFO  ibatis.member.main.MemberMain.start(MemberMain.java:51) - Log4j : 작업을 시작하는 메서드
+[2018-12-04 16:48:24,029] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:48:24,029] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Connection
+[2018-12-04 16:48:24,030] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Preparing Statement:        select count(*) from mymember where mem_id=?    
+[2018-12-04 16:48:24,030] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100000} Preparing Statement:        select count(*) from mymember where mem_id=?    
+[2018-12-04 16:48:24,072] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Executing Statement:        select count(*) from mymember where mem_id=?    
+[2018-12-04 16:48:24,072] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Executing Statement:        select count(*) from mymember where mem_id=?    
+[2018-12-04 16:48:24,072] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Parameters: [d002]
+[2018-12-04 16:48:24,072] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Parameters: [d002]
+[2018-12-04 16:48:24,072] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Types: [java.lang.String]
+[2018-12-04 16:48:24,072] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100001} Types: [java.lang.String]
+[2018-12-04 16:48:24,084] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} ResultSet
+[2018-12-04 16:48:24,084] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} ResultSet
+[2018-12-04 16:48:24,092] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} Header: [COUNT(*)]
+[2018-12-04 16:48:24,092] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} Header: [COUNT(*)]
+[2018-12-04 16:48:24,093] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} Result: [0]
+[2018-12-04 16:48:24,093] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {rset-100002} Result: [0]
+[2018-12-04 16:48:44,054] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100003} Connection
+[2018-12-04 16:48:44,054] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100003} Connection
+[2018-12-04 16:48:44,055] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100003} Preparing Statement:        insert into mymember (mem_id, mem_name, mem_tel, mem_addr)       values ( ?, ?, ?, ? )    
+[2018-12-04 16:48:44,055] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {conn-100003} Preparing Statement:        insert into mymember (mem_id, mem_name, mem_tel, mem_addr)       values ( ?, ?, ?, ? )    
+[2018-12-04 16:48:44,055] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Executing Statement:        insert into mymember (mem_id, mem_name, mem_tel, mem_addr)       values ( ?, ?, ?, ? )    
+[2018-12-04 16:48:44,055] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Executing Statement:        insert into mymember (mem_id, mem_name, mem_tel, mem_addr)       values ( ?, ?, ?, ? )    
+[2018-12-04 16:48:44,055] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Parameters: [d002, 김현지, 010-2222-2222, 광주]
+[2018-12-04 16:48:44,055] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Parameters: [d002, 김현지, 010-2222-2222, 광주]
+[2018-12-04 16:48:44,055] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Types: [java.lang.String, java.lang.String, java.lang.String, java.lang.String]
+[2018-12-04 16:48:44,055] DEBUG com.ibatis.common.logging.log4j.Log4jImpl.debug(Log4jImpl.java:26) - {pstm-100004} Types: [java.lang.String, java.lang.String, java.lang.String, java.lang.String]
+[2018-12-04 16:53:50,543] INFO  ibatis.member.main.MemberMain.start(MemberMain.java:51) - Log4j : 작업을 시작하는 메서드

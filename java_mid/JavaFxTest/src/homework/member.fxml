@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="homework.Member_Cotorll">
+   <children>
+      <HBox alignment="CENTER" prefHeight="33.0" prefWidth="600.0" spacing="10.0">
+         <children>
+            <Label alignment="CENTER" text="회원 ID :   " />
+            <TextField fx:id="txt_id" alignment="CENTER" prefHeight="20.0" prefWidth="350.0">
+               <HBox.margin>
+                  <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+               </HBox.margin>
+            </TextField>
+         </children>
+         <padding>
+            <Insets top="5.0" />
+         </padding>
+      </HBox>
+      <HBox alignment="CENTER" prefHeight="33.0" prefWidth="600.0" spacing="10.0">
+         <children>
+            <Label alignment="CENTER" text="회원이름 : " />
+            <TextField fx:id="txt_name" alignment="CENTER" prefHeight="20.0" prefWidth="350.0">
+               <HBox.margin>
+                  <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+               </HBox.margin>
+            </TextField>
+         </children>
+      </HBox>
+      <HBox alignment="CENTER" prefHeight="33.0" prefWidth="600.0" spacing="10.0">
+         <children>
+            <Label alignment="CENTER" text="회원전화 : " />
+            <TextField fx:id="txt_tel" alignment="CENTER" prefHeight="20.0" prefWidth="350.0">
+               <HBox.margin>
+                  <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+               </HBox.margin>
+            </TextField>
+         </children>
+      </HBox>
+      <HBox alignment="CENTER" prefHeight="0.0" prefWidth="600.0" spacing="10.0">
+         <children>
+            <Label alignment="CENTER" text="회원주소 : " />
+            <TextField fx:id="txt_addr" alignment="CENTER" prefHeight="20.0" prefWidth="350.0">
+               <HBox.margin>
+                  <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+               </HBox.margin>
+            </TextField>
+         </children>
+         <opaqueInsets>
+            <Insets />
+         </opaqueInsets>
+      </HBox>
+      <HBox alignment="BASELINE_CENTER" prefHeight="63.0" prefWidth="600.0" spacing="10.0">
+         <children>
+            <Button fx:id="btn_ins" alignment="CENTER" contentDisplay="CENTER" mnemonicParsing="false" prefHeight="40.0" prefWidth="80.0" text="추 가" />
+            <Button fx:id="btn_upd" alignment="CENTER" contentDisplay="CENTER" mnemonicParsing="false" prefHeight="40.0" prefWidth="80.0" text="수 정" />
+            <Button fx:id="btn_del" alignment="CENTER" contentDisplay="CENTER" mnemonicParsing="false" prefHeight="40.0" prefWidth="80.0" text="삭 제" />
+            <Button fx:id="btn_ok" alignment="CENTER" contentDisplay="CENTER" mnemonicParsing="false" prefHeight="40.0" prefWidth="80.0" text="확 인" />
+            <Button fx:id="btn_can" alignment="CENTER" mnemonicParsing="false" prefHeight="40.0" prefWidth="80.0" text="취 소" />
+         </children>
+         <padding>
+            <Insets top="10.0" />
+         </padding>
+      </HBox>
+      <TableView fx:id="tab_view" prefHeight="200.0" prefWidth="200.0">
+        <columns>
+          <TableColumn fx:id="col_id" text="회원ID" />
+          <TableColumn fx:id="col_name" prefWidth="230.0" text="회원이름" />
+            <TableColumn fx:id="col_tel" prefWidth="150.0" text="회원전화" />
+            <TableColumn fx:id="col_addr" prefWidth="150.0" text="회원주소" />
+        </columns>
+      </TableView>
+   </children>
+</VBox>

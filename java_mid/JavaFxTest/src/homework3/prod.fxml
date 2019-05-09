@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="1130.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="homework3.Product_Control">
+   <top>
+      <HBox alignment="CENTER" prefHeight="40.0" prefWidth="1500.0" spacing="20.0" BorderPane.alignment="CENTER">
+         <children>
+            <ComboBox fx:id="combo1_name" onAction="#combo1_click" prefWidth="150.0" />
+            <ComboBox fx:id="combo2_detail" onAction="#combo2_click" prefWidth="300.0" />
+         </children>
+      </HBox>
+   </top>
+   <center>
+      <TableView fx:id="tableview" prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+        <columns>
+          <TableColumn fx:id="t_id" prefWidth="120.0" text="PROD_ID" />
+          <TableColumn fx:id="t_name" prefWidth="150.0" text="PROD_NAME" />
+            <TableColumn fx:id="t_lgu" prefWidth="120.0" text="PROD_LGU" />
+            <TableColumn minWidth="0.0" prefWidth="0.0" text="PROD_BYER" />
+            <TableColumn fx:id="t_buyer" prefWidth="120.0" text="PROD_BUYER" />
+            <TableColumn fx:id="t_cost" prefWidth="120.0" text="PROD_COST" />
+            <TableColumn fx:id="t_price" prefWidth="120.0" text="PROD_PRICE" />
+            <TableColumn fx:id="t_sale" prefWidth="120.0" text="PROD_SALE" />
+            <TableColumn fx:id="t_outline" prefWidth="120.0" text="PROD_OUTLINE" />
+            <TableColumn fx:id="t_detail" prefWidth="120.0" text="PROD_DETAIL" />
+        </columns>
+      </TableView>
+   </center>
+</BorderPane>

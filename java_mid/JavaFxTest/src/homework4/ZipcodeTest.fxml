@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<BorderPane maxHeight="-Infinity" fx:controller="homework4.ZipCode_Controller" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <top>
+      <HBox alignment="CENTER" prefHeight="37.0" prefWidth="600.0" spacing="10.0" BorderPane.alignment="CENTER">
+         <children>
+            <ComboBox fx:id="cmb" prefWidth="150.0" />
+            <TextField fx:id="t_field" />
+            <Button fx:id="btn_Search" mnemonicParsing="false" onAction="#btn_Search_Click" text="검색" />
+         </children>
+      </HBox>
+   </top>
+   <center>
+      <TableView prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+        <columns>
+          <TableColumn fx:id="col_Zipcode" prefWidth="100.0" text="우편번호" />
+          <TableColumn fx:id="col_City" prefWidth="100.0" text="시도" />
+            <TableColumn fx:id="col_Gu" prefWidth="100.0" text="구군" />
+            <TableColumn fx:id="col_Street" prefWidth="100.0" text="동" />
+            <TableColumn fx:id="col_Street_Num" prefWidth="100.0" text="번지" />
+        </columns>
+      </TableView>
+   </center>
+</BorderPane>
